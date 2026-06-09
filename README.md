@@ -1,9 +1,8 @@
 # 💫 About Me:
-MCA Student 👨‍💻<br>Learning MERN Stack Development<br>Currently building API Uptime Monitoring System (Spring Boot)<br>Interested in Cloud & Scalable Systems<br>Always learning & improving 🚀<br>
+MCA Student 👨‍💻<br>Learning MERN Stack Development<br>Practicing DSA from Scratch<br>Interested in Cloud & Scalable Systems<br>Always learning & improving 🚀<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suraj.mhaske03) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mhaske-7a9b58346) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SurajMhaske03) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suraj.mhaske0303@gmail.com)
